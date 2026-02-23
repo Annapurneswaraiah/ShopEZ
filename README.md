@@ -50,7 +50,7 @@ README.md   → Project documentation
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/suprajaK-dev/ShopEZ.git
+git clonehttps://github.com/Annapurneswaraiah/ShopEZ
 
 ### 2️⃣ Install Dependencies
 
